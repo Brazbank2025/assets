@@ -79,3 +79,4 @@ Additionally, spam-like behavior, including but not limited to mass distribution
 ## License
 
 The scripts and documentation in this project are released under the [MIT License](LICENSE)
+blockchains/ethereum/assets
